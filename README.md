@@ -9,7 +9,7 @@
   
 <h2>Funcionalidades</h2>
 <ul>
-<li>O site apresenta uma única página com todas as informações essenciais.</li>
+<li>Site totalmente responsivo</li>
 <li>Contém uma seção "Habilidades", que exibe informações das habilidades.</li>
 <li>Apresenta uma seção "Links", que destaca links relevantes para o usuário.</li>
 </ul>
