@@ -6,7 +6,7 @@
 <p>Stephany Linktree foi criado para que pudesse aplicar meus conhecimentos adquiridos em <strong>HTML</strong> e <strong>CSS</strong>, tendo como mudança a opção de exibir as habilidades.</p>
 <p>Utilização de CSS Flexbox para organização do site de forma dinâmica</p>
 <p>O projeto foi totalmente inspirado no Linktree que é um é um agregador de links.</p>
-<p>Status: 👩‍💻 Em andamento<p>
+<p>Status: ✔️Finalizado<p>
   
 <h2>Funcionalidades</h2>
 <ul>
